@@ -1,2 +1,2 @@
-# student-_egistration_system
+# student-_registration_system
 Student registration system
